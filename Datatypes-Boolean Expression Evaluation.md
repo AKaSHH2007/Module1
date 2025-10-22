@@ -27,4 +27,9 @@ print(c)
 print(d)
 ```
 ## Output
+<img width="568" height="410" alt="image" src="https://github.com/user-attachments/assets/d3fd81d9-29b5-4706-9cbe-08f7d54757d9" />
+
 ## Result
+The Python program that evaluates and prints the results of boolean and arithmetic expressions involving True and False is executed successfully
+
+
